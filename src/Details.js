@@ -53,25 +53,32 @@ export const socialMediaUrl = {
 export const workDetails = [
   {
     Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
+    Company: `UpWork.com`,
+    Location: "United States",
     Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
+    Duration: "Sep 2021 - at the moment",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Web Developer",
+    Company: `Fiverr.com`,
+    Location: "United States",
+    Type: "Full Time",
+    Duration: "Dec 2020 - at the moment",
   },
   {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "Web Developer",
+    Company: `GetNinjas.com.br`,
+    Location: "Brazil",
+    Type: "Full Time",
+    Duration: "Sep 2020 - at the moment",
   },
+  {
+    Position: "Web Developer",
+    Company: `Workana.com`,
+    Location: "Brazil",
+    Type: "Full Time",
+    Duration: "Sep 2021 - at the moment",
+   }
 ];
 
 // Enter your Education Details here
@@ -84,12 +91,19 @@ export const eduDetails = [
     Duration: "Jan 2022 - Present",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
+    Position: "",
     Company: `Your College Name here`,
     Location: "Bengaluru",
     Type: "Full Time",
     Duration: "Aug 2020 - Present",
   },
+  {
+    Position: "Frontend Development",
+    Company: "Udemy, YouTube, Google, Medium",
+    Location: "Online",
+    Type: "Full Time",
+    Duration: "Jan 2022 - Present",
+  }
 ];
 
 // Tech Stack and Tools
@@ -170,6 +184,6 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "henriqueteixeira26@gmail.com",
+  phone: "+55 33 997036600",
 };
