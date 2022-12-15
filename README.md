@@ -1,7 +1,8 @@
 # React Developer Portfolio template
 ### Preview ( Dark Mode )
 
-<img src="/Animação-portifolio.gif" alt="preview" width="600px" />
+<!-- <img src="/Animação-portifolio.gif" alt="preview" width="600px" /> -->
+![Alt text](Anima%C3%A7%C3%A3o-portifolio.gif)
 
 ## Follow Below instructions to add your deatils in the portfolio.
 
