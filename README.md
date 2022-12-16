@@ -1,6 +1,8 @@
 # React Developer Portfolio template
 ### Preview ( Dark Mode )
 
+[Link para teste do Portfólio](https://henrique990.github.io/Portifolio2.0/)
+
 <!-- <img src="/Animação-portifolio.gif" alt="preview" width="600px" /> -->
 ![Alt text](Anima%C3%A7%C3%A3o-portifolio.gif)
 
